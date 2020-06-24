@@ -1,4 +1,5 @@
 #!/usr/bin/python
 for i in range(5):
     print (i)
-v = 20
+#change v to 60
+v = 60
